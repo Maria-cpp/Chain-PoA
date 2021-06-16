@@ -9,7 +9,7 @@
 #include "../protocoltxconstructor.h"
 #include <data-types-v0.0.0/src/buffer/binary.h>
 #include "../../chainmaster.h"
-#include <forwardblock-protocol-cpp/src/transactions/txflags.h>
+#include <protocol/src/transactions/txflags.h>
 
 namespace ChainPoA
 {

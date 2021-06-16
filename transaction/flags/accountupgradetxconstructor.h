@@ -8,11 +8,11 @@
 #include "../../forwardpoa.h"
 #include "../protocoltxconstructor.h"
 #include "accountupgradetx.h"
-#include <forwardblock-protocol-cpp/src/transactions/traits.h>
+#include <protocol/src/transactions/traits.h>
 #include <spdlog/spdlog.h>
 #include <data-types-v0.0.0/src/buffer/binary.h>
 #include "../../../utils/mathencodings.h"
-#include <forwardblock-protocol-cpp/src/transactions/txflags.h>
+#include <protocol/src/transactions/txflags.h>
 namespace ChainPoA
 {
 class AccountUpgradeTxConstructor : public ProtocolTxConstructor

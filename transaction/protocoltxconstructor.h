@@ -6,8 +6,8 @@
 #define FORWARDBLOCK_CPP_PROTOCOLTXCONSTRUCTOR_H
 
 #include "../forwardpoa.h"
-#include <forwardblock-protocol-cpp/src/abstractprotocolchain.h>
-#include <forwardblock-protocol-cpp/src/transactions/abstracttxconstructor.h>
+#include <protocol/src/abstractprotocolchain.h>
+#include <protocol/src/transactions/abstracttxconstructor.h>
 
 namespace ChainPoA
 {

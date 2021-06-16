@@ -6,10 +6,10 @@
 #define FORWARDBLOCK_CPP_TXFACTORY_H
 
 #include "txflagsinterface.h"
-#include <forwardblock-protocol-cpp/src/abstractprotocolchain.h>
-#include <forwardblock-protocol-cpp/src/transactions/abstractpreparedTx.h>
-#include <forwardblock-protocol-cpp/src/transactions/transaction.h>
-#include <forwardblock-protocol-cpp/src/transactions/txflags.h>
+#include <protocol/src/abstractprotocolchain.h>
+#include <protocol/src/transactions/abstractpreparedTx.h>
+#include <protocol/src/transactions/transaction.h>
+#include <protocol/src/transactions/txflags.h>
 #include <transaction/flags/accountupgradetxconstructor.h>
 #include <transaction/flags/registertxconstructor.h>
 

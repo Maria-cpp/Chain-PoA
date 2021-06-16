@@ -6,7 +6,7 @@
 #define FORWARDBLOCK_CPP_ACCOUNTUPGRADETX_H
 
 #include "../../../utils/mathencodings.h"
-#include <forwardblock-protocol-cpp/src/transactions/abstractpreparedTx.h>
+#include <protocol/src/transactions/abstractpreparedTx.h>
 namespace ChainPoA
 {
 class AccountUpgradeTx : public Protocol::AbstractPreparedTx

@@ -7,10 +7,10 @@
 
 #include "../protocoltxconstructor.h"
 #include "../../forwardpoa.h"
-#include <forwardblock-protocol-cpp/src/keypair/publickey.h>
-#include <forwardblock-protocol-cpp/src/keypair/privatekey/signature.h>
-#include <forwardblock-protocol-cpp/src/accounts/chainaccountinterface.h>
-#include <forwardblock-protocol-cpp/src/transactions/txflags.h>
+#include <protocol/src/keypair/publickey.h>
+#include <protocol/src/keypair/privatekey/signature.h>
+#include <protocol/src/accounts/chainaccountinterface.h>
+#include <protocol/src/transactions/txflags.h>
 
 namespace ChainPoA
 {

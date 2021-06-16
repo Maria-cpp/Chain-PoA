@@ -8,10 +8,10 @@
 #include "transaction/ledgerentryflags.h"
 #include "transaction/txflag.h"
 #include "transaction/txflagsinterface.h"
-#include <forwardblock-protocol-cpp/src/abstractprotocolchain.h>
-#include <forwardblock-protocol-cpp/src/protocolconstants.h>
-#include <forwardblock-protocol-cpp/src/transactions/receipts/ledgerflags.h>
-#include <forwardblock-protocol-cpp/src/transactions/abstracttxflag.h>
+#include <protocol//src/abstractprotocolchain.h>
+#include <protocol/src/protocolconstants.h>
+#include <protocol/src/transactions/receipts/ledgerflags.h>
+#include <protocol/src/transactions/abstracttxflag.h>
 #include "string"
 
 namespace ChainPoA

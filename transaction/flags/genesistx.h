@@ -5,10 +5,10 @@
 #ifndef FORWARDBLOCK_CPP_GENESISTX_H
 #define FORWARDBLOCK_CPP_GENESISTX_H
 
-#include <forwardblock-protocol-cpp/src/abstractprotocolchain.h>
-#include <forwardblock-protocol-cpp/src/keypair/keypairfactory.h>
-#include <forwardblock-protocol-cpp/src/keypair/publickey.h>
-#include <forwardblock-protocol-cpp/src/transactions/abstractpreparedTx.h>
+#include <protocol//src/abstractprotocolchain.h>
+#include <protocol/src/keypair/keypairfactory.h>
+#include <protocol/src/keypair/publickey.h>
+#include <protocol/src/transactions/abstractpreparedTx.h>
 
 
 namespace ChainPoA

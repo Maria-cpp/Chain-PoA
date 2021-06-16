@@ -6,8 +6,8 @@
 #define FORWARDBLOCK_CPP_TXFLAG_H
 
 #include "../utils/utils.h"
-#include <forwardblock-protocol-cpp/src/transactions/abstracttxflag.h>
-#include <forwardblock-protocol-cpp/src/keypair/publickey.h>
+#include <protocol/src/transactions/abstracttxflag.h>
+#include <protocol/src/keypair/publickey.h>
 
 #include <string>
 namespace ChainPoA

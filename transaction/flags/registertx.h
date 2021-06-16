@@ -8,10 +8,10 @@
 
 #include <data-types-v0.0.0/src/buffer/base16.h>
 #include <data-types-v0.0.0/src/buffer/binary.h>
-#include <forwardblock-protocol-cpp/src/keypair/keypairfactory.h>
-#include <forwardblock-protocol-cpp/src/keypair/privatekey/signature.h>
-#include <forwardblock-protocol-cpp/src/keypair/publickey.h>
-#include <forwardblock-protocol-cpp/src/transactions/abstractpreparedTx.h>
+#include <protocol/src/keypair/keypairfactory.h>
+#include <protocol/src/keypair/privatekey/signature.h>
+#include <protocol/src/keypair/publickey.h>
+#include <protocol/src/transactions/abstractpreparedTx.h>
 #include <utils/mathencodings.h>
 #include <utils/utils.h>
 

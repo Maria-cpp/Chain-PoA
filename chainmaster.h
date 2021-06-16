@@ -4,8 +4,8 @@
 
 #ifndef FORWARDBLOCK_CPP_CHAINMASTER_H
 #define FORWARDBLOCK_CPP_CHAINMASTER_H
-#include "../forwardblock-protocol-cpp/src/accounts/chainaccountinterface.h"
-#include "../forwardblock-protocol-cpp/src/keypair/publickey.h"
+#include <protocol/src/accounts/chainaccountinterface.h>
+#include <protocol/src/keypair/publickey.h>
 
 //#include "forwardpoa.h"
 namespace ChainPoA
